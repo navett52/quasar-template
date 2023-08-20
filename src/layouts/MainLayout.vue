@@ -4,7 +4,7 @@
       <q-toolbar>
         <q-btn flat dense round icon="menu" aria-label="Menu" />
 
-        <q-toolbar-title> novabyte.blog </q-toolbar-title>
+        <q-toolbar-title> Quasar Repo Template </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
       </q-toolbar>
